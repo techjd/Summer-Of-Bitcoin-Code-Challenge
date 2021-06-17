@@ -1,7 +1,7 @@
 # Written By Jaydeepsinh Parmar
 # Contact At :- jaydeepparmar253@gmail.com
 # LinkedIn:- https://www.linkedin.com/in/techjd/
-# Solution of Summer Of Bitcoin Challenge
+# Solution of Summer Of Bitcoin Code Challenge
 
 # importing csv module
 import csv
